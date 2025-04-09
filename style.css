@@ -39,60 +39,6 @@ div {
     margin: 10px auto;
 }
 
-@media (max-width: 840px) {
-	div {
-		width: 640px;
-	}
-}
-
-@media (max-width: 800px) {
-	div {
-		width: 600px;
-	}
-}
-
-@media (max-width: 760px) {
-	div {
-		width: 560px;
-	}
-}
-
-@media (max-width: 720px) {
-	div {
-		width: 520px;
-	}
-}
-
-@media (max-width: 680px) {
-	div {
-		width: 480px;
-	}
-}
-
-@media (max-width: 640px) {
-	div {
-		width: 440px;
-	}
-}
-
-@media (max-width: 590px) {
-	div {
-		width: 400px;
-	}
-}
-
-@media (max-width: 550px) {
-	div {
-		width: 360px;
-	}
-}
-
-@media (max-width: 500px) {
-	div {
-		width: 320px;
-	}
-}
-
 div .card-white {
 	margin: 20px auto;
     padding: 20px;
@@ -137,7 +83,103 @@ div #introduction p {
 	margin-bottom: 40px;
 }
 
-
 div #introduction p {
 	margin-bottom: 40px;
 }
+
+WebSize
+	@media (max-width: 840px) {
+		div {
+			width: 640px;
+		}
+	}
+
+	@media (max-width: 800px) {
+		div {
+			width: 600px;
+		}
+	}
+
+	@media (max-width: 760px) {
+		div {
+			width: 560px;
+		}
+	}
+
+	@media (max-width: 720px) {
+		div {
+			width: 520px;
+		}
+	}
+
+	@media (max-width: 680px) {
+		div {
+			width: 480px;
+		}
+	}
+
+	@media (max-width: 640px) {
+		div {
+			width: 440px;
+		}
+	}
+
+	@media (max-width: 590px) {
+		div {
+			width: 400px;
+		}
+	}
+
+	@media (max-width: 550px) {
+		div {
+			width: 360px;
+		}
+	}
+
+	@media (max-width: 500px) {
+		div {
+			width: 320px;
+		}
+	}
+
+	@media (max-width: 460px) {
+		div {
+			width: 280px;
+		}
+	}
+
+	@media (max-width: 420px) {
+		div {
+			width: 240px;
+		}
+	}
+
+	@media (max-width: 380px) {
+		div {
+			width: 200px;
+		}
+	}
+
+	@media (max-width: 340px) {
+		div {
+			width: 160px;
+		}
+	}
+
+	@media (max-width: 300px) {
+		div {
+			width: 120px;
+		}
+	}
+
+	@media (max-width: 260px) {
+		div {
+			width: 80px;
+		}
+	}
+
+	@media (max-width: 220px) {
+		div {
+			width: 40px;
+		}
+	}
