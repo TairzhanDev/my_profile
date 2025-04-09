@@ -1,6 +1,6 @@
 body	{
-	background-color: #EFEFEF;
-	color: #3E5879;
+	background-color: rgba(10, 10, 10, 0.1);
+	color: #EFEFEF;
 	font-family: "DM Sans", sans-serif;
 	font-weight: 300;
 	font-size: 17px;
@@ -9,7 +9,7 @@ body	{
 
 h1, h2 {
 	font-family: "Heebo", sans-serif;
-	color: #213555;
+	color: #EFEFEF;
 }
 
 h1 {
@@ -99,7 +99,7 @@ div .card-white {
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
     text-align: center;
-    background-color: #F2EFE7;
+    background-color: #2C2C2C;
 }
 
 div .img-circle {
@@ -132,6 +132,11 @@ div li {
 div i {
 	font-size: 60px;
 }
+
+div #introduction p {
+	margin-bottom: 40px;
+}
+
 
 div #introduction p {
 	margin-bottom: 40px;
